@@ -1,6 +1,7 @@
+PLEASE CREATE TALBLE market_price_historis 
 -- Table: public.market_price_histories
 
--- DROP TABLE IF EXISTS public.market_price_histories;
+DROP TABLE IF EXISTS public.market_price_histories;
 
 CREATE TABLE IF NOT EXISTS public.market_price_histories
 (
